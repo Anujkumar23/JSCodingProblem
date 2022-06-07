@@ -5,7 +5,7 @@
   5.Then return sum call the function and pass argument iside the funtion and print the result   */
        let  arr= [1,2,3,4,5]
         function sumOfNumber(arr){
-            sum=0;
+           let sum=0;
             for (let i=0;i<arr.length;i++){
                 sum= sum+arr[i]
             }

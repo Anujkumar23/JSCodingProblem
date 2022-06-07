@@ -1,12 +1,12 @@
 
-//    1. first we created a reverseString Function which takes a parameter.
-//    2. then inside that function we created a empty variable
-//    3. we will itrate for loop over "Str" variable
-//    4. the itration start from the last index until 0 to get a reverse string.
-//    5. after each itration the element is added to the "newstr" variable.
-//    6. when we will reach at index 0 we will out from the loop.
-//    7. then we return the variable newStr.
-//    8. after that we call the reverseFunction() and and an argument to it which is a variable that contain the string.
+//    1. Airst we created a reverseString Function which takes a parameter.
+//    2. Then inside that function we created a empty variable
+//    3. Te will itrate for loop over "Str" variable
+//    4. The itration start from the last index until 0 to get a reverse string.
+//    5. After each itration the element is added to the "newstr" variable.
+//    6. When we will reach at index 0 we will out from the loop.
+//    7. Then we return the variable newStr.
+//    8. After that we call the reverseFunction() and and an argument to it which is a variable that contain the string.
 
 
 
