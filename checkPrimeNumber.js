@@ -3,7 +3,7 @@
 function checkPrimeNumber(num) {
    
   for (let  i = 2; i < num; i++) {
-    if (num % i == 0) {
+    if (num % i === 0) {
       console.log(`${num} is not a prime number`);
      
     } else {
